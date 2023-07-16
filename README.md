@@ -18,7 +18,7 @@
 <br>
 
 - I am Jr Frontend Developer
-- I'm interested in Next.JS, React Nativ
+- I'm interested in Next.JS, React Native
 - Currently learning Swift
 - Personal website [link](https://sametbalci.vercel.app/)
 
@@ -66,9 +66,6 @@
 
 
 </p>
-
-<br>
-<br>
 
 -----
 
