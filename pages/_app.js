@@ -21,6 +21,8 @@ export default function Nextra({ Component, pageProps }) {
           type="font/woff2"
           crossOrigin="anonymous"
         />
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1492608901815364"
+     crossorigin="anonymous"></script>
       </Head>
       <Component {...pageProps} />
       <Analytics />
